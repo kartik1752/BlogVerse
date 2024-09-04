@@ -4,7 +4,7 @@ import Signup from './Components/Signup';
 import User from './Components/User';
 import { Navbar } from './Components/Navbar';
 import Banner from './Components/Banner';
-import './Components/SecondBanner'
+import SecondBanner from './Components/SecondBanner';
 import FetchBlog from './Components/FetchBlog';
 
 function AppWrapper() {
